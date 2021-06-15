@@ -1,0 +1,17 @@
+.head{
+text-align: center;
+margin: 4;
+
+}
+.fr{
+    
+    display: grid;
+    place-items: left;
+    
+}
+img{
+    height: 30px;
+}
+#nolist{
+    color: brown;
+}
